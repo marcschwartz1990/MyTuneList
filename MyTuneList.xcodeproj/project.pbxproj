@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		AF61A0312AF5E287002F2D39 /* MainTuneListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF61A0302AF5E287002F2D39 /* MainTuneListView.swift */; };
+		AF61A0332AF5EB74002F2D39 /* AddTuneView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF61A0322AF5EB74002F2D39 /* AddTuneView.swift */; };
 		AF866B9F2AF5D9BB002C251A /* MyTuneListApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF866B9E2AF5D9BB002C251A /* MyTuneListApp.swift */; };
 		AF866BA12AF5D9BB002C251A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF866BA02AF5D9BB002C251A /* ContentView.swift */; };
 		AF866BA32AF5D9BB002C251A /* Tune.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF866BA22AF5D9BB002C251A /* Tune.swift */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		AF61A0302AF5E287002F2D39 /* MainTuneListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTuneListView.swift; sourceTree = "<group>"; };
+		AF61A0322AF5EB74002F2D39 /* AddTuneView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddTuneView.swift; sourceTree = "<group>"; };
 		AF866B9B2AF5D9BB002C251A /* MyTuneList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyTuneList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AF866B9E2AF5D9BB002C251A /* MyTuneListApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTuneListApp.swift; sourceTree = "<group>"; };
 		AF866BA02AF5D9BB002C251A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				AF866BA42AF5D9BD002C251A /* Assets.xcassets */,
 				AF866BA62AF5D9BD002C251A /* Preview Content */,
 				AF61A0302AF5E287002F2D39 /* MainTuneListView.swift */,
+				AF61A0322AF5EB74002F2D39 /* AddTuneView.swift */,
 			);
 			path = MyTuneList;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AF61A0332AF5EB74002F2D39 /* AddTuneView.swift in Sources */,
 				AF866BA12AF5D9BB002C251A /* ContentView.swift in Sources */,
 				AF61A0312AF5E287002F2D39 /* MainTuneListView.swift in Sources */,
 				AF866BA32AF5D9BB002C251A /* Tune.swift in Sources */,
